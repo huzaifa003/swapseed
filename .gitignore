@@ -4,3 +4,7 @@ gfpgan/*
 gfpgan/weights/*
 outputs/*
 pretrained_models/*
+venv/*
+venv
+outputs
+frames
